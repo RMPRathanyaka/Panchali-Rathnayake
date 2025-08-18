@@ -8,6 +8,7 @@ This space represents a collection of my academic, professional, and personal pr
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [panchali20021129@gmail.com](mailto:panchali20021129@gmail.com)
+*  🧠  I'm currently learning Bsc.Hons in Information Systems
 * 👥  I'm looking to collaborate on Web Development Projects (full-stack or frontend),University or Research Based Work in computing
 
 <p align="left">
